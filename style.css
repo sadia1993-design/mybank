@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.all_login_area{
+
+    margin: auto;
+    width: 60%;
+    min-height: 200px;
+   box-shadow: 5px 6px 13px gray;
+   padding: 40px;
+   border-radius: 6px;
+   margin-top: 40px;
+
+
+}
+.all_login_area h4{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    padding: 20px;
+    
+}
+form{
+   
+}
